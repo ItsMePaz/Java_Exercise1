@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Avatar",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "year": 2009,
+    "directors": ["James Cameron", "Mico"],
+    "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+    "writers": ["James Cameron"],
+    "isFavorite": true
+  },
+  {
+    "title": "Buarbie",
+    "genres": ["Adventre", "Comedy", "Fantasy"],
+    "year": 2023,
+    "directors": ["Greta Gerwig"],
+    "actors": ["Margot Robbie", "Ryan Gosling", "Issa Rae"],
+    "writers": ["Greta Gerwig", "Noah Baumbach"],
+    "isFavorite": true
+  },
+  {
+    "title": "Oppenheimer",
+    "genres": ["Biography", "Drama", "History"],
+    "year": 2023,
+    "directors": ["Christopher Nolan"],
+    "actors": ["Cillian Murphy", "Emily Blunt", "Matt Damon"],
+    "writers": ["Christopher Nolan", "Kai Bird", "Martin Sherwin"],
+    "isFavorite": true
+  },
+  {
+    "title": "Transformers",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "year": 2007,
+    "directors": ["Michael Bay"],
+    "actors": ["Shia Labeouf", "Megan Fox", "Josh Duhamel"],
+    "writers": ["Roberto Orci", "Alex Kurtzman", "John Rogers"],
+    "isFavorite": false
+  },
+  {
+    "title": "Insidious",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "year": 2010,
+    "directors": ["James Wan"],
+    "actors": ["Patrick Wilson", "Rose Byrne", "Ty Simpkins"],
+    "writers": ["Leigh Whannell"],
+    "isFavorite": true
+  }
+]
