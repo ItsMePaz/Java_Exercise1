@@ -27,4 +27,4 @@ Here are the Assumptions I made in doing this exercise:
 
    \*Service.java: This file lets me parse and return json file.
 
-Here a quick screed recorded demo of all the filter features of the program -> https://drive.google.com/file/d/15N0TkFZC-F7jZcoH-ohmMAPLq-B2Drl4/view?usp=sharing
+Here a quick screen recorded demo of all the filter features of the program -> https://drive.google.com/file/d/15N0TkFZC-F7jZcoH-ohmMAPLq-B2Drl4/view?usp=sharing
